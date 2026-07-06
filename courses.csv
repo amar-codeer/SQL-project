@@ -1,0 +1,6 @@
+CourseID,CourseName,DurationMonths,Fee,InstructorID
+201,SQL,2,5000,1
+202,Python,3,8000,2
+203,Power BI,2,7000,3
+204,Excel,1,3000,4
+205,Data Analytics,4,12000,5
